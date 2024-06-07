@@ -30,5 +30,13 @@ body{
     padding: 1em;
     color:  var(--branco-principal);
     display: block;
+}
+.container-botao-2{
+    background-color: transparent;
+    border: 2px solid var(--branco-principal);
+    border-radius: 5px;
+    padding: 1em;
+    display: block;
+    color: var(--branco-principal);
 
 }
